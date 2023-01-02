@@ -1,111 +1,37 @@
-import Navbar from "./components/Navbar.js"
+import Navbar from "./components/Navbar.js";
 import './App.css';
+import Card from 'react-bootstrap/Card';
 
 function App() {
   return (
-    <div className="App">dsdsfdsfds
-    sdffsdfsdfsdffsfsdfsdfd
-      <div className="sticky">
-      <Navbar></Navbar></div>
-      <header className="App-header">
-        <p>
-          Rodrigo de Sarasqueta
-          Fullstack developer
-        </p>
-        <p>
-          Python Flask React.js Next.js MongoDB HTML CSS
-        </p>
-        <p>
-          Last Projects
-        </p>
-        <p>
-          Skills
-        </p>
-        <p>Contact me</p>
-        <p>
-          Rodrigo de Sarasqueta
-          Fullstack developer
-        </p>
-        <p>
-          Python Flask React.js Next.js MongoDB HTML CSS
-        </p>
-        <p>
-          Last Projects
-        </p>
-        <p>
-          Skills
-        </p>
-        <p>Contact me</p>
-        <p>
-          Rodrigo de Sarasqueta
-          Fullstack developer
-        </p>
-        <p>
-          Python Flask React.js Next.js MongoDB HTML CSS
-        </p>
-        <p>
-          Last Projects
-        </p>
-        <p>
-          Skills
-        </p>
-        <p>Contact me</p>
+    <div className="App">
+    Rodrigo de Sarasqueta
+    <header>
+      <div className="sticky"><Navbar></Navbar></div>
+      <div><h1>Bienvenidx al portfolio de Rodrigo de Sarasqueta</h1></div>
+  <h2>
+  <div>dvfdgsfgsfdgffdgdsgfdsgdsgdfgdsgdgfdgdf</div>
+  <div>dvfdgsfgsfdgffdgdsgfdsgdsgdfgdsgdgfdgdf</div>
+  <div>dvfdgsfgsfdgffdgdsgfdsgdsgdfgdsgdgfdgdf</div>
+  <div>dvfdgsfgsfdgffdgdsgfdsgdsgdfgdsgdgfdgdf</div>
+  <div>dvfdgsfgsfdgffdgdsgfdsgdsgdfgdsgdgfdgdf</div>
+  <div>dvfdgsfgsfdgffdgdsgfdsgdsgdfgdsgdgfdgdf</div>
+  <div>dvfdgsfgsfdgffdgdsgfdsgdsgdfgdsgdgfdgdf</div>
+  <div>dvfdgsfgsfdgffdgdsgfdsgdsgdfgdsgdgfdgdf</div>
+  <div>dvfdgsfgsfdgffdgdsgfdsgdsgdfgdsgdgfdgdf</div></h2>
 
       </header>
       <div>
-        jhkhkhkhj
-        <div class="bubbles">
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-  <div class="bubble"></div>
-</div>
+      <h2>
+  <div>dvfdgsfgsfdgffdgdsgfdsgdsgdfgdsgdgfdgdf</div>
+  <div>dvfdgsfgsfdgffdgdsgfdsgdsgdfgdsgdgfdgdf</div>
+  <div>dvfdgsfgsfdgffdgdsgfdsgdsgdfgdsgdgfdgdf</div>
+  <div>dvfdgsfgsfdgffdgdsgfdsgdsgdfgdsgdgfdgdf</div>
+  <div>dvfdgsfgsfdgffdgdsgfdsgdsgdfgdsgdgfdgdf</div>
+  <div>dvfdgsfgsfdgffdgdsgfdsgdsgdfgdsgdgfdgdf</div>
+  <div>dvfdgsfgsfdgffdgdsgfdsgdsgdfgdsgdgfdgdf</div>
+  <div>dvfdgsfgsfdgffdgdsgfdsgdsgdfgdsgdgfdgdf</div>
+  <div>dvfdgsfgsfdgffdgdsgfdsgdsgdfgdsgdgfdgdf</div></h2>
       </div>
     </div>
   );
