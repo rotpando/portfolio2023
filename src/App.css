@@ -10,10 +10,10 @@
 }
 
 .App {
-  background-color: black;
-  background: linear-gradient(338deg, rgb(255, 230, 3) 0%, rgb(96, 16, 255) 56%, rgb(252, 69, 69) 98%);
-  background-size: 400%;
-  animation: fondo-anim 20s infinite alternate;
+  background: rgb(255,255,255);
+background: radial-gradient(circle, rgba(255,255,255,1) 10%, rgba(115,69,252,1) 30%, rgb(255, 255, 255) 46%, rgb(255, 255, 255) 62%, rgba(216,118,187,1) 80%, rgba(255,255,255,0) 98%);
+  background-size: 800%;
+  animation: fondo-anim 5s infinite alternate-reverse;
   padding: 0%;
 }
 .App-header {
@@ -53,3 +53,25 @@ body {
   margin: 0;
 }
 
+div.card {
+  display:flex;
+  flex-direction: row;
+  color:black;
+  flex-wrap: wrap;
+  flex: 200px;
+  justify-content: space-around;
+  font-family:initial;
+  background-color: rgba(240, 255, 255, 0.412);
+  align-items: flex-start;
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  margin: 30px;
+}
+
+@media (max-width: 800px) {
+  div.card {
+    flex-direction: column;
+  }
+}
