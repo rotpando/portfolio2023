@@ -9,13 +9,11 @@ function navbar() {
     <div className="navcenter">
 
         <Nav className="navcontainer">  
-          <Nav.Link className="linknav" href="home">Home</Nav.Link>  
-          <Nav.Link className="linknav" href="about">about</Nav.Link>
-          <Nav.Link className="linknav" href="projects">peojects</Nav.Link>
-          <Nav.Link className="linknav" href="resume">resume</Nav.Link>
-          <Nav.Link className="linknav" href="contact">Conctact</Nav.Link> 
-          <Nav.Link className="linknav" href="link">EN/ES/DE</Nav.Link>
-          <Nav.Link className="linknav" href="link">*/+</Nav.Link>
+          <Nav.Link className="linknav" href="#home">Home</Nav.Link>  
+          <Nav.Link className="linknav" href="#about">Bio</Nav.Link>
+          <Nav.Link className="linknav" href="#projects">Proyectos</Nav.Link>
+          <Nav.Link className="linknav" href="#resume">C.V.</Nav.Link>
+          <Nav.Link className="linknav" href="#contact">Conctacto</Nav.Link> 
           <div className="animation start-home"></div>
         </Nav>   
          
