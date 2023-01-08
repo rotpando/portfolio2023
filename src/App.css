@@ -15,6 +15,10 @@ background: radial-gradient(circle, rgba(255,255,255,1) 10%, rgba(115,69,252,1) 
   background-size: 800%;
   animation: fondo-anim 5s infinite alternate-reverse;
   padding: 0%;
+  border-radius: 30%;
+  padding: 40%;
+  border-color: blue;
+  margin-top: 10px;
 }
 .App-header {
   min-height: 100vh;
